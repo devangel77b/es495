@@ -1,7 +1,7 @@
 % course information
 \newcommand{\usnaSchool}{United States Naval Academy}
 \newcommand{\usnaDepartment}{Department of Weapons \& Systems Engineering}
-\newcommand{\usnaCourseNumber}{ES495/6}
+\newcommand{\usnaCourseNumber}{ES495}
 \newcommand{\usnaCourseName}{Midshipman Research}
 %\newcommand{\usnaDepartment}{Department of Weapons, Robotics, and Control Engineering}
 %\newcommand{\usnaCourseNumber}{EW200}
