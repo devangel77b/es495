@@ -1,0 +1,6 @@
+Garrott, M; (anyone else?); Laun, A; United States Naval Academy
+
+Biomimetic Caudal Fin for an Unmanned Underwater Vehicle (UUV)
+
+A typical propulsion system for an unmanned underwater vehicle (UUV) features a rotating shaft and a propeller to forcefully push it through the water.  While efficient, such a vehicle design can result in reduced maneuverability and agility. The caudal fins of many fish suggest potential designs that would provide reasonable efficiency as well as maneuverability. For example, the heterocercal caudal fins of many sharks, sturgeon, and (list them), appear to be an effective shape that balances propulsive efficiency and maneuverability. Key aspects of such fins are their shape, flexibility, and the sweep angle of the lobes? (define which tail angle you mean). We will discuss efforts to design and optimize an undulating, neutrally buoyant caudal fin attachment for a common UUV hull form. Specifically, we find that optimizing the geometric shape and tail angle for (WHAT - WHAT IS OPTIMIZATION CRITERION) results in a design similar to actual sharks, sturgeon, and (list them). Installation of the biomimetic caudal fin in an existing UUV propulsion system is anticipated to provide superiod hydrodynamic performance, efficiency, and maneuverability. 
+
