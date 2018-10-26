@@ -1,9 +1,9 @@
 % course information
 \newcommand{\usnaSchool}{United States Naval Academy}
-\newcommand{\usnaDepartment}{Department of Weapons \& Systems Engineering}
+%\newcommand{\usnaDepartment}{Department of Weapons \& Systems Engineering}
 \newcommand{\usnaCourseNumber}{ES495}
 \newcommand{\usnaCourseName}{Midshipman Research}
-%\newcommand{\usnaDepartment}{Department of Weapons, Robotics, and Control Engineering}
+\newcommand{\usnaDepartment}{Department of Weapons, Robotics, and Control Engineering}
 %\newcommand{\usnaCourseNumber}{EW200}
 %\newcommand{\usnaCourseName}{Introduction to Weapons, Robotics, and Control Engineering}
 \newcommand{\usnaCourseSections}{1121/3321}
